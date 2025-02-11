@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #ffffe0;
+    color: rgb(12, 1, 1);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header nav a {
+    color: rgb(4, 0, 0);
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  .home {
+    color: rgb(14, 1, 1);
+    background-color: white;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .about {
+    background: white;
+  }
+  
+  .projects {
+    background: white;
+  }
+  
+  .footer {
+    background: #ffffe0;
+    color: rgb(10, 6, 6);
+    padding: 20px;
+  }
+  
