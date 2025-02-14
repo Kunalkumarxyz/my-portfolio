@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website! This is a React-based web application that showcases my skills, projects, and achievements.
 
-## 🚀 Live Demo
-Check out the live website: [My Portfolio](https://my-portfolio-kappa-five-52.vercel.app/)
-
 ## 📌 Features
 - 🏠 **Home Page:** Introduction and welcome message.
 - 👤 **About Section:** Details about me and my skills.
